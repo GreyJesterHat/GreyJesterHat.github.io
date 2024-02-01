@@ -11,7 +11,7 @@ What sets us apart is our commitment to ethical and responsible software testing
 
  ZerothProtocol is your software testing partner. Experience software testing that transcends conventional boundaries. We are dedicated to delivering software that not only works flawlessly but also upholds the principles of ethics and responsibility. With ZerothProtocol, your software is in safe hands, and your users' trust is our top priority.
 
- # $  o^{th}$  Law of Robotics - 'A robot may not harm humanity, or, through inaction, allow humanity to come to harm.' Isaac Asimove
+ # $  o^{th}$  Law of Robotics - 'A robot may not harm humanity, or, through inaction, allow humanity to come to harm.' Isaac Asimov
 
 
  <!-- ![20230127_114420.jpg](20230127_114420.jpg) -->
